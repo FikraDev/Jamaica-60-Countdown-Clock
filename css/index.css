@@ -1,0 +1,81 @@
+    body {
+        margin: 0;
+        width: 100%;
+        text-align: center;
+        background-color: black;
+        font-family: 'Judson', serif;
+    }
+    
+    #spn1,
+    #spn2 {
+        color: green;
+    }
+    
+    #spn3 {
+        color: gold;
+    }
+    
+    h1 {
+        font-weight: bolder;
+        font-size: 4rem;
+    }
+    
+    h2 {
+        color: green;
+    }
+    
+    .container {
+        margin: 80 0 0 0;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        color: white;
+    }
+    
+    .text {
+        font-size: 6rem;
+        line-height: 1;
+        margin: 0 2rem;
+    }
+    
+    .contel {
+        text-align: center;
+        font-weight: bold;
+    }
+    
+    .contel span {
+        font-size: 1.5rem;
+    }
+    
+    #hours,
+    #days {
+        color: red;
+    }
+    
+    #mins {
+        color: green;
+    }
+    
+    #secs {
+        color: gold;
+    }
+    
+    video {
+        padding-top: 15px;
+        width: 50%;
+        height: 200px;
+    }
+    
+    .btn {
+        padding-top: 80px;
+    }
+    
+    button {
+        width: 10rem;
+        height: 3rem;
+        background-color: gold;
+        color: green;
+        font-size: large;
+        font-weight: bold;
+        font-family: 'Judson', serif;
+    }

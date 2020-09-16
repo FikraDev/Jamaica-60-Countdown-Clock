@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    font-family: 'Judson', serif;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+
+/*.mainContainer {
+    
+}*/
